@@ -1,0 +1,20 @@
+center{
+    margin-top: 40px;
+}
+.container{
+    display: flex;
+    margin: 0 5px 0 25%;
+}
+
+.shape{
+    position:absolute ;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(14, 37, 241);
+}
+
+.liveResult{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 30%;
+}
